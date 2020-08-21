@@ -1,0 +1,11 @@
+c:\users\jorge\documents\visual studio 2012\Projects\P 25\P 25\bin\Debug\P 25.exe.config
+c:\users\jorge\documents\visual studio 2012\Projects\P 25\P 25\bin\Debug\P 25.exe
+c:\users\jorge\documents\visual studio 2012\Projects\P 25\P 25\bin\Debug\P 25.pdb
+c:\users\jorge\documents\visual studio 2012\Projects\P 25\P 25\obj\Debug\P 25.exe
+c:\users\jorge\documents\visual studio 2012\Projects\P 25\P 25\obj\Debug\P 25.pdb
+F:\Gabriel\3er semestre\estructura de datos luz elena\P 19Cola.String\P 25\bin\Debug\P 25.exe.config
+F:\Gabriel\3er semestre\estructura de datos luz elena\P 19Cola.String\P 25\bin\Debug\P 25.exe
+F:\Gabriel\3er semestre\estructura de datos luz elena\P 19Cola.String\P 25\bin\Debug\P 25.pdb
+F:\Gabriel\3er semestre\estructura de datos luz elena\P 19Cola.String\P 25\obj\Debug\P 25.csprojAssemblyReference.cache
+F:\Gabriel\3er semestre\estructura de datos luz elena\P 19Cola.String\P 25\obj\Debug\P 25.exe
+F:\Gabriel\3er semestre\estructura de datos luz elena\P 19Cola.String\P 25\obj\Debug\P 25.pdb
